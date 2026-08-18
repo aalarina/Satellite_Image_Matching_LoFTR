@@ -93,7 +93,7 @@ Therefore, no manual download of the model weights is required.
 ## Project Structure
 
 ```text
-Satellite-Image-Matching/
+Satellite_Image_Matching_LoFTR/
 │
 ├── notebooks/
 │   ├── dataset_creation.ipynb     # Dataset preparation from Sentinel-2 images
